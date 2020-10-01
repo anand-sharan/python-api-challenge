@@ -58,7 +58,7 @@ Whether financial, political, or social -- data's true power lies in its ability
 
 ## Analysis and Conclusion
 1. When we move from north pole or equator and south pole to equator we see that the temparature are more near the equator.
-2. From the plot Northern Hemisphere - Temperature (F) vs. Latitude, the r-value is: -0.85, which more than -0.5 and this show they are negatively correlated.
-3. From the plot Southern Hemisphere - Temperature (F) vs. Latitude, the r-value is: 0.66 is more than 0.5 show that they are positively correlated.
-4. There is not much relationship between latitude and wind speed.
-5. There is not much relationship between latitude and cloudiness.
+2. From the r-value and plot Northern Hemisphere - Temperature (F) vs. Latitude, the r-value is: -0.85, which more than -0.5 and this show they are negatively correlated.
+3. From the r-value and plot Southern Hemisphere - Temperature (F) vs. Latitude, the r-value is: 0.66 is more than 0.5 show that they are positively correlated.
+4. From the r-value and plot Northern Hemisphere - Wind Speed (mph) vs. Latitude, the r-value is: 0.14. There is is not much relationship between latitude and wind speed.
+5. From the r-value and plot Northern Hemisphere - Wind Speed (mph) vs. Latitude, thre r-value is: 0.05. There is not much relationship between latitude and cloudiness.
