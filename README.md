@@ -34,7 +34,7 @@ Whether financial, political, or social -- data's true power lies in its ability
 
 7. Northern Hemisphere - Humidity (%) vs. Latitude
 
-![Weather](/Images/ScatternHLatitudeHumidityRegression.png)
+![Weather](/Images/ScatterNHLatitudeHumidityRegression.png)
 
 8. Southern Hemisphere - Humidity (%) vs. Latitude
 
