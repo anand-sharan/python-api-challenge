@@ -61,4 +61,4 @@ Whether financial, political, or social -- data's true power lies in its ability
 2. From the r-value and plot Northern Hemisphere - Temperature (F) vs. Latitude, the r-value is: -0.85, which more than -0.5 and this show they are negatively correlated.
 3. From the r-value and plot Southern Hemisphere - Temperature (F) vs. Latitude, the r-value is: 0.66 is more than 0.5 show that they are positively correlated.
 4. From the r-value and plot Northern Hemisphere - Wind Speed (mph) vs. Latitude, the r-value is: 0.14. There is is not much relationship between latitude and wind speed.
-5. From the r-value and plot Northern Hemisphere - Wind Speed (mph) vs. Latitude, thre r-value is: 0.05. There is not much relationship between latitude and cloudiness.
+5. From the r-value and plot Northern Hemisphere - Wind Speed (mph) vs. Latitude, the r-value is: 0.05. There is not much relationship between latitude and cloudiness.
