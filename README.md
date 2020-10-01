@@ -57,7 +57,8 @@ Whether financial, political, or social -- data's true power lies in its ability
 ![Weather](/Images/ScatterSHLatitudeWindSpeedRegression.png)
 
 ## Analysis and Conclusion
-1. From the plot, the northern hemisphere seems to be slightly humid.
-2. Southern Hemisphere Latitude vs. Max Temp the r-value is: 0.7384551058739902 which is more than 0.5 show that they are somewhat correlated.
-3. There is not much relationship between latitude and wind speed.
-4. There is not much relationship between latitude and cloudiness.
+1. When we move from north pole or equator and south pole to equator we see that the temparature are more near the equator.
+2. From the plot Northern Hemisphere - Temperature (F) vs. Latitude, the r-value is: -0.85, which more than -0.5 and this show they are negatively correlated.
+3. From the plot Southern Hemisphere - Temperature (F) vs. Latitude, the r-value is: 0.66 is more than 0.5 show that they are positively correlated.
+4. There is not much relationship between latitude and wind speed.
+5. There is not much relationship between latitude and cloudiness.
